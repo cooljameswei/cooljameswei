@@ -1,6 +1,6 @@
 <p align="center">
   
-  <img align="center" src="https://github.com/sweetjustin0717/sweetjustin0717/blob/main/GIT%20img1.png?raw=true" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://user-images.githubusercontent.com/110060055/182190302-63cd89c1-dc3a-4902-b3e3-ca438c23c71a.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>

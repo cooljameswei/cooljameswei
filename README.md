@@ -2,12 +2,6 @@
   
   <img align="center" src="https://user-images.githubusercontent.com/110060055/182190302-63cd89c1-dc3a-4902-b3e3-ca438c23c71a.jpg?raw=true" style = "width: -webkit-fill-available;"/>
 </p>
-<h1 align="center">
-  <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-  <a href="/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=findwork&color=%230076D6&style=flat&logo=google-chrome&logoColor=white" alt="website"/></a>
-  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-  <a href="https://join.skype.com/invite/uISpHvktqwRa"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&logo=skype&logoColor=important&message=Contact%20me&style=style=flat&color=important" alt="Badge"/></a>
-</h1>
 <img align="right" width="220" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif" />
   <p>
 &nbsp;I provide Front-End, Back-End and also user-friendly web solutions. I would like to inform you that I am highly skilled with frontend & backend frameworks and libraries like React.js, Angular, Vue.js, PHP, Node.js, Java, Python, DevOps and so on, as I have handsome experience of it. Still, I am always eager to learn a new thing and make my skills sharper whenever I get a chance. Above and beyond, I have a great passion for blockchain & cryptocurrency like web3.js, Dapp, DeFi, NFT etc and software technology as well. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.

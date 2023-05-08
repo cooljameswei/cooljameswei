@@ -8,7 +8,7 @@
 &nbsp;I provide Front-End, Back-End and also user-friendly web solutions. I would like to inform you that I am highly skilled with frontend & backend frameworks and libraries like React.js, Angular, Vue.js, PHP, Node.js, Java, Python, DevOps and so on, as I have handsome experience of it. Still, I am always eager to learn a new thing and make my skills sharper whenever I get a chance. Above and beyond, I have a great passion for blockchain & cryptocurrency like web3.js, Dapp, DeFi, NFT etc and software technology as well. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.
 </p>
 <p align="center">
-  <a href="https://github.com/acehood0126"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;Pixel%20Perfect%20UI/UX%20Designer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+  <a href="https://github.com/tsremarkable"><img src="https://readme-typing-svg.herokuapp.com/?lines=Creative,%20Passionate%20and%20Efficient%20Senior%20Full%20Stack%20Engineer;Accurate%20and%20Highly%20secure%20Blockchain%20developer;Pixel%20Perfect%20UI/UX%20Designer;7+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
 </p>
 
 ## Hightlights
@@ -19,7 +19,8 @@
 
 ## About me
 
-<img align="right" alt="GIF" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding1.gif?raw=true" width="400" />
+<img align="right" alt="GIF" src="https://github.com/
+                                  0126/acehood0126/blob/main/pics/coding1.gif?raw=true" width="400" />
 
 * I am a senior software engineer heavily focusing on web development as a full-stack.
 * My focus is to help clients with their business by fixing and creating projects of value.

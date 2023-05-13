@@ -4,9 +4,6 @@
 
 </p>
 <img align="right" width="220" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif" />
-  <p>
-&nbsp;Been a software engineer for 8 years in various industry applications and backend systems. Skilled at writing clear, concise code that is easy to maintain and troubleshoot. Experienced in working with both small and large teams across multiple projects and companies.
-</p>
 
 ## Hightlights
 

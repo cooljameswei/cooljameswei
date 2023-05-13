@@ -5,7 +5,7 @@
 </p>
 <img align="right" width="220" src="https://github.com/acehood0126/acehood0126/blob/main/pics/coding2.gif" />
   <p>
-&nbsp;I provide Front-End, Back-End and also user-friendly web solutions. I would like to inform you that I am highly skilled with frontend & backend frameworks and libraries like React.js, Angular, Vue.js, PHP, Node.js, Java, Python, DevOps and so on, as I have handsome experience of it. Still, I am always eager to learn a new thing and make my skills sharper whenever I get a chance. Above and beyond, I have a great passion for blockchain & cryptocurrency like web3.js, Dapp, DeFi, NFT etc and software technology as well. I have worked with some IT companies and enjoyed the work a lot. My recruiters are always delighted with my creativity, hard work and stamina.
+&nbsp;Been a software engineer for 8 years in various industry applications and backend systems. Skilled at writing clear, concise code that is easy to maintain and troubleshoot. Experienced in working with both small and large teams across multiple projects and companies.
 </p>
 
 ## Hightlights

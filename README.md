@@ -10,5 +10,6 @@
 <img align="right" alt="GIF" src="https://github.com/
                                   0126/acehood0126/blob/main/pics/coding1.gif?raw=true" width="400" />
 
-Worked in teams of various sizes across the whole stack. He is an Agile methodologies enthusiast and has rich experience working in scrum teams.
-I'm always open for new projects!
+- Worked in teams of various sizes across the whole stack. He is an Agile methodologies enthusiast and has rich experience working in scrum teams.
+
+- I'm always open for new projects!

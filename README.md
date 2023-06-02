@@ -12,4 +12,4 @@
 
 - He is an Agile methodologies enthusiast and has rich experience working in scrum teams.
 
-- I can't wait to working on cool projects!
+- I can't wait to work on cool projects!
